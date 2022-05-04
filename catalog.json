@@ -3,7 +3,7 @@
     "id":"1",
     "title":"Ocean Blue Shirt",
     "link":"https://via.placeholder.com/150",
-    "description":"Ocean blue cotton shirt with a narrow collar and buttons down the front and long sleeves. Comfortable fit and tiled kalidoscope patterns.",
+    "description":"Ocean blue cotton shirt with a narrow collar and buttons down the front and long sleeves. Comfortable fit and titled kalidoscope patterns.",
     "price":20,
     "image_link":"https://via.placeholder.com/150",
     "categories":["apparel","t-shirt","new-arrival","swag","summer"],
@@ -12,7 +12,7 @@
   },
   {
     "id":"2",
-    "tile":"Yellow Wool Jumper",
+    "title":"Yellow Wool Jumper",
     "description":"Knitted jumper in a soft wool blend with low dropped shoulders and wide sleeves and think cuffs. Perfect for keeping warm during Fall.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -23,7 +23,7 @@
   },
   {
     "id":"3",
-    "tile":"Classic Leather Jacket",
+    "title":"Classic Leather Jacket",
     "description":"Womans zipped leather jacket. Adjustable belt for a comfortable fit, complete with shoulder pads and front zip pocket.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -34,7 +34,7 @@
   },
   {
     "id":"4",
-    "tile":"Dark Denim Top",
+    "title":"Dark Denim Top",
     "description":"Classic dark denim top with chest pockets, long sleeves with buttoned cuffs, and a ripped hem effect.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -45,7 +45,7 @@
   },
   {
     "id":"5",
-    "tile":"Navy Sports Jacket",
+    "title":"Navy Sports Jacket",
     "description":"Long-sleeved navy waterproof jacket in thin, polyester fabric with a soft mesh inside. The durable water-repellent finish means you'll be kept comfortable and protected when out in all weathers.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -56,7 +56,7 @@
   },
   {
     "id":"6",
-    "tile":"Soft Winter Jacket",
+    "title":"Soft Winter Jacket",
     "description":"Thick black winter jacket, with soft fleece lining. Perfect for those cold weather days.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -67,7 +67,7 @@
   },
   {
     "id":"7",
-    "tile":"Zipped Jacket",
+    "title":"Zipped Jacket",
     "description":"Dark navy and light blue men's zipped waterproof jacket with an outer zipped chestpocket for easy storeage.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -78,7 +78,7 @@
   },
   {
     "id":"8",
-    "tile":"Chequered Red Shirt",
+    "title":"Chequered Red Shirt",
     "description":"Classic mens plaid flannel shirt with long sleeves, in chequered style, with two chest pockets.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -89,7 +89,7 @@
   },
   {
     "id":"9",
-    "tile":"White Cotton Shirt",
+    "title":"White Cotton Shirt",
     "description":"Plain white cotton long sleeved shirt with loose collar. Small buttons and front pocket.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -100,7 +100,7 @@
   },
   {
     "id":"10",
-    "tile":"Olive Green Jacket",
+    "title":"Olive Green Jacket",
     "description":"Loose fitting olive green jacket with buttons and large pockets. Multicoloured pattern on the front of the shoulders.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -111,7 +111,7 @@
   },
   {
     "id":"11",
-    "tile":"Blue Silk Tuxedo",
+    "title":"Blue Silk Tuxedo",
     "description":"Blue silk tuxedo with marbled aquatic pattern and dark lining. Sleeves are complete with rounded hem and black buttons.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -123,7 +123,7 @@
   },
   {
     "id":"12",
-    "tile":"Red Sports Tee",
+    "title":"Red Sports Tee",
     "description":"Women's red sporty t-shirt with colorful details on the sleeves and a small white pocket.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -134,7 +134,7 @@
   },
   {
     "id":"13",
-    "tile":"Striped Skirt and Top",
+    "title":"Striped Skirt and Top",
     "description":"Black cotton top with matching striped skirt.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -145,7 +145,7 @@
   },
   {
     "id":"14",
-    "tile":"LED High Tops",
+    "title":"LED High Tops",
     "description":"Black high top shoes with green LED lights in the sole, tied up with laces and a buckle.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
@@ -156,7 +156,7 @@
   },
   {
     "id":"15",
-    "tile":"Classic Varsity Top",
+    "title":"Classic Varsity Top",
     "description":"Womens casual varsity top, This grey and black buttoned top is a sport-inspired piece complete with an embroidered letter.",
     "link":"https://via.placeholder.com/150",
     "image_link":"https://via.placeholder.com/150",
